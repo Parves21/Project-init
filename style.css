@@ -5,6 +5,17 @@
     width: auto;
 }
 
+#navber-style{
+    background-color: #e7b897;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+
 .primary-color {
     color: #FD6E0A;
 }
@@ -14,8 +25,8 @@
     background-image: url('images/header_bg.png'), url('images/developer.png');
     background-repeat: no-repeat;
     background-position: bottom right, bottom left;
-    /* width: 1600px;
-    height: 837px; */
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 /* navigation bar */
